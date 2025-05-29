@@ -11,7 +11,7 @@
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
+### IntelliJU IDEA ###
 .idea
 *.iws
 *.iml
@@ -24,3 +24,5 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+
